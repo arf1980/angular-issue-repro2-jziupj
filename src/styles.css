@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+
+
+/* Styles used by instructions */
+.instructions {
+  font-family: Arial, Helvetica, sans-serif;
+  border-top: 1px solid gray;
+}
+.instructions li {
+  padding: 0 0 10px;
+}
+.instructions li li {
+  padding: 5px 0;
+}
+.instructions .cut {
+  color: red;
+  border-top: 1px solid gray;
+  padding-top: 15px;
+}
